@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\PJATK_LESSONS\BYT\Project\BYT\LucidMarket\LucidMarket\obj\Debug\LucidMarket.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PJATK_LESSONS\BYT\Project\BYT\LucidMarket\LucidMarket\obj\Debug\LucidMarket.csproj.CoreCompileInputs.cache
