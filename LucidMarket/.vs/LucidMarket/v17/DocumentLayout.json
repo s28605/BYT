@@ -3,43 +3,63 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA4405DF-A3F2-49A7-9DE9-B6F770B72447}|LucidMarket.Tests\\LucidMarket.Tests.csproj|c:\\users\\user\\desktop\\pjatk_lessons\\byt\\project\\byt\\lucidmarket\\lucidmarket.tests\\customertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4405DF-A3F2-49A7-9DE9-B6F770B72447}|LucidMarket.Tests\\LucidMarket.Tests.csproj|solutionrelative:lucidmarket.tests\\customertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4405DF-A3F2-49A7-9DE9-B6F770B72447}|LucidMarket.Tests\\LucidMarket.Tests.csproj|c:\\users\\user\\desktop\\pjatk_lessons\\byt\\project\\byt\\lucidmarket\\lucidmarket.tests\\employeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4405DF-A3F2-49A7-9DE9-B6F770B72447}|LucidMarket.Tests\\LucidMarket.Tests.csproj|solutionrelative:lucidmarket.tests\\employeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\model\\products\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\products\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|c:\\users\\user\\desktop\\pjatk_lessons\\byt\\project\\byt\\lucidmarket\\lucidmarket\\model\\employees\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\employees\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\model\\employees\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\employees\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\model\\products\\tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\products\\tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\model\\products\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\products\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\model\\products\\accessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\products\\accessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Employees\\PartTimeEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|c:\\users\\user\\desktop\\pjatk_lessons\\byt\\project\\byt\\lucidmarket\\lucidmarket\\model\\employees\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\employees\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Employees\\FullTimeEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|c:\\users\\user\\desktop\\pjatk_lessons\\byt\\project\\byt\\lucidmarket\\lucidmarket\\model\\products\\tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\products\\tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Products\\Tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|c:\\users\\user\\desktop\\pjatk_lessons\\byt\\project\\byt\\lucidmarket\\lucidmarket\\model\\products\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\products\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Products\\Smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|c:\\users\\user\\desktop\\pjatk_lessons\\byt\\project\\byt\\lucidmarket\\lucidmarket\\model\\products\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\products\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Products\\Laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|c:\\users\\user\\desktop\\pjatk_lessons\\byt\\project\\byt\\lucidmarket\\lucidmarket\\model\\products\\accessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\products\\accessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Products\\Accessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -61,16 +81,12 @@
       "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|c:\\users\\user\\desktop\\pjatk_lessons\\byt\\project\\byt\\lucidmarket\\lucidmarket\\abstractions\\classextent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\abstractions\\classextent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\abstractions\\classextent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|c:\\users\\user\\desktop\\pjatk_lessons\\byt\\project\\byt\\lucidmarket\\lucidmarket\\model\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\model\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\model\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +95,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,10 +107,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\lucidmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B06EBB8-8559-4C33-B8D1-B046B5011B14}|LucidMarket\\LucidMarket.csproj|solutionrelative:lucidmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -108,147 +116,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PartTimeEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Employees\\PartTimeEmployee.cs",
-              "RelativeDocumentMoniker": "..\\asignment 3\\Employees\\PartTimeEmployee.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Employees\\PartTimeEmployee.cs",
-              "RelativeToolTip": "..\\asignment 3\\Employees\\PartTimeEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CustomerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket.Tests\\CustomerTests.cs",
+              "RelativeDocumentMoniker": "LucidMarket.Tests\\CustomerTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket.Tests\\CustomerTests.cs",
+              "RelativeToolTip": "LucidMarket.Tests\\CustomerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:25:30.233Z",
+              "WhenOpened": "2024-10-24T20:52:50.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "EmployeeTest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket.Tests\\EmployeeTest.cs",
+              "RelativeDocumentMoniker": "LucidMarket.Tests\\EmployeeTest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket.Tests\\EmployeeTest.cs",
+              "RelativeToolTip": "LucidMarket.Tests\\EmployeeTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:38:02.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PartTimeEmployee.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Employees\\PartTimeEmployee.cs",
               "RelativeDocumentMoniker": "LucidMarket\\Model\\Employees\\PartTimeEmployee.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Employees\\PartTimeEmployee.cs",
               "RelativeToolTip": "LucidMarket\\Model\\Employees\\PartTimeEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T20:25:16.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "FullTimeEmployee.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Employees\\FullTimeEmployee.cs",
               "RelativeDocumentMoniker": "LucidMarket\\Model\\Employees\\FullTimeEmployee.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Employees\\FullTimeEmployee.cs",
               "RelativeToolTip": "LucidMarket\\Model\\Employees\\FullTimeEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T20:25:07.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Tablet.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Products\\Tablet.cs",
-              "RelativeDocumentMoniker": "..\\asignment 3\\Products\\Tablet.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Products\\Tablet.cs",
-              "RelativeToolTip": "..\\asignment 3\\Products\\Tablet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:23:33.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Smartphone.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Products\\Smartphone.cs",
-              "RelativeDocumentMoniker": "..\\asignment 3\\Products\\Smartphone.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Products\\Smartphone.cs",
-              "RelativeToolTip": "..\\asignment 3\\Products\\Smartphone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:23:16.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Laptop.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Products\\Laptop.cs",
               "RelativeDocumentMoniker": "..\\asignment 3\\Products\\Laptop.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Products\\Laptop.cs",
               "RelativeToolTip": "..\\asignment 3\\Products\\Laptop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:23:05.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T20:23:05.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Accessory.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Products\\Accessory.cs",
               "RelativeDocumentMoniker": "..\\asignment 3\\Products\\Accessory.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Products\\Accessory.cs",
               "RelativeToolTip": "..\\asignment 3\\Products\\Accessory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:22:53.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T20:22:53.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "FullTimeEmployee.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Employees\\FullTimeEmployee.cs",
               "RelativeDocumentMoniker": "..\\asignment 3\\Employees\\FullTimeEmployee.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Employees\\FullTimeEmployee.cs",
               "RelativeToolTip": "..\\asignment 3\\Employees\\FullTimeEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:22:40.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T20:22:40.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Tablet.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Products\\Tablet.cs",
               "RelativeDocumentMoniker": "LucidMarket\\Model\\Products\\Tablet.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Products\\Tablet.cs",
               "RelativeToolTip": "LucidMarket\\Model\\Products\\Tablet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T20:21:54.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Smartphone.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Products\\Smartphone.cs",
               "RelativeDocumentMoniker": "LucidMarket\\Model\\Products\\Smartphone.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Products\\Smartphone.cs",
               "RelativeToolTip": "LucidMarket\\Model\\Products\\Smartphone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T20:21:45.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Laptop.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Products\\Laptop.cs",
               "RelativeDocumentMoniker": "LucidMarket\\Model\\Products\\Laptop.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Products\\Laptop.cs",
               "RelativeToolTip": "LucidMarket\\Model\\Products\\Laptop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T20:21:36.236Z",
               "EditorCaption": ""
@@ -261,14 +250,86 @@
               "RelativeDocumentMoniker": "LucidMarket\\Model\\Products\\Accessory.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Products\\Accessory.cs",
               "RelativeToolTip": "LucidMarket\\Model\\Products\\Accessory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T20:21:06.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Program.cs",
+              "RelativeDocumentMoniker": "LucidMarket\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Program.cs",
+              "RelativeToolTip": "LucidMarket\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:29:50.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "LucidMarket\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Product.cs",
+              "RelativeToolTip": "LucidMarket\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:33:01.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "LucidMarket\\Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Customer.cs",
+              "RelativeToolTip": "LucidMarket\\Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:32:01.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Products\\Smartphone.cs",
+              "RelativeDocumentMoniker": "..\\asignment 3\\Products\\Smartphone.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Products\\Smartphone.cs",
+              "RelativeToolTip": "..\\asignment 3\\Products\\Smartphone.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:23:16.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tablet.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Products\\Tablet.cs",
+              "RelativeDocumentMoniker": "..\\asignment 3\\Products\\Tablet.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Products\\Tablet.cs",
+              "RelativeToolTip": "..\\asignment 3\\Products\\Tablet.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:23:33.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Employees\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "..\\asignment 3\\Employees\\PartTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\asignment 3\\Employees\\PartTimeEmployee.cs",
+              "RelativeToolTip": "..\\asignment 3\\Employees\\PartTimeEmployee.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:25:30.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Report.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Report.cs",
               "RelativeDocumentMoniker": "LucidMarket\\Model\\Report.cs",
@@ -281,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Promotion.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Promotion.cs",
               "RelativeDocumentMoniker": "LucidMarket\\Model\\Promotion.cs",
@@ -294,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Supplier.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Supplier.cs",
               "RelativeDocumentMoniker": "LucidMarket\\Model\\Supplier.cs",
@@ -307,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Inventory.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Inventory.cs",
               "RelativeDocumentMoniker": "LucidMarket\\Model\\Inventory.cs",
@@ -320,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Employee.cs",
               "RelativeDocumentMoniker": "LucidMarket\\Model\\Employee.cs",
@@ -333,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Cart.cs",
               "RelativeDocumentMoniker": "LucidMarket\\Model\\Cart.cs",
@@ -346,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Review.cs",
               "RelativeDocumentMoniker": "LucidMarket\\Model\\Review.cs",
@@ -359,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "PaymentMethod.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\PaymentMethod.cs",
               "RelativeDocumentMoniker": "LucidMarket\\Model\\PaymentMethod.cs",
@@ -372,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Order.cs",
               "RelativeDocumentMoniker": "LucidMarket\\Model\\Order.cs",
@@ -385,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "ClassExtent.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Abstractions\\ClassExtent.cs",
               "RelativeDocumentMoniker": "LucidMarket\\Abstractions\\ClassExtent.cs",
@@ -398,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "PersistenceManager.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Services\\PersistenceManager.cs",
               "RelativeDocumentMoniker": "LucidMarket\\Services\\PersistenceManager.cs",
@@ -407,45 +468,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T19:34:28.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "LucidMarket\\Model\\Product.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Product.cs",
-              "RelativeToolTip": "LucidMarket\\Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T19:33:01.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Customer.cs",
-              "RelativeDocumentMoniker": "LucidMarket\\Model\\Customer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Model\\Customer.cs",
-              "RelativeToolTip": "LucidMarket\\Model\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T19:32:01.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Program.cs",
-              "RelativeDocumentMoniker": "LucidMarket\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PJATK_LESSONS\\BYT\\Project\\BYT\\LucidMarket\\LucidMarket\\Program.cs",
-              "RelativeToolTip": "LucidMarket\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T19:29:50.876Z",
               "EditorCaption": ""
             }
           ]

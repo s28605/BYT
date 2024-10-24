@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LucidMarket.Abstractions;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LucidMarket.Model.Employees
 {
-    internal class PartTimeEmployee
+    public class PartTimeEmployee : ClassExtent<PartTimeEmployee>
     {
         public DateTime ShiftStartTime { get; set; }
         public DateTime ShiftEndTime { get; set; }
